@@ -1,0 +1,145 @@
+SpeciesID,SpeciesName,FunctionalGroup
+1,Aristida stricta,Graminoid
+2,Andropogon virginicus,Graminoid
+3,Andropopgon virginicus var. glaucus,Graminoid
+4,Schizachyrium scoparium,Graminoid
+5,Dichanthelium commutatum,Graminoid
+6,Dichanthelium laxiflorum,Graminoid
+7,Dichanthelium scoparium,Graminoid
+8,Dichanthelium aciculare,Graminoid
+9,Dichanthelium acuminatum,Graminoid
+10,Unknown 1 - Eragrostis spp. (spectabilis) CFP1,Graminoid
+11,Euphorbia ipecacuanhae,Forb
+12,Euphorbia pubentissima,Forb
+13,Euphorbia curtisii,Forb
+14,Pityopsis aspera,Forb
+15,Toxicodendron pubescens,Forb
+16,Stipulicida setacea,Forb
+17,Eupatorium compositifolium,Forb
+18,Eupatorium rotundifolium,Forb
+19,Eupatorium leucolepis,Forb
+20,Eupatroium pilosum,Forb
+21,Eupatroium hyssopifolium var. hyssopifolium,Forb
+22,Eupatorium album,Forb
+24,Quercus incana,Tree
+25,Quercus nigra,Tree
+26,Quercus laevis,Tree
+27,Quercus hemisphaerica,Tree
+28,Diospyros virginiana,Tree
+29,Sassafras albidum,Tree
+30,Vaccinium tenellum,Woody
+31,Vaccinium crassifolium,Woody
+32,Gaylussacia dumosa,Woody
+33,Ilex glabra,Woody
+34,Cnidoscolus stimulosus,Forb
+35,Baptisia cinerea,Legume
+36,Baptisia tinctoria,Legume
+37,Hypericum hypercoides,Forb
+38,Hyperium crux-andrea,Forb
+39,Hypericum lloydii,Forb
+40,Danthonia sericea,Graminoid
+41,Paspalum notatum,Graminoid
+42,Carphephorus bellidifolius,Forb
+43,Carphephorus odoratissimus,Forb
+44,Lyonia mariana,Tree
+45,Andropogon gyrans,Graminoid
+46,Tephrosia virginiana,Legume
+48,Rhexia alifanus,Forb
+49,Rhexia mariana,Forb
+50,Pinus palustris (Graminoid),Tree
+51,Juncus Coriaceous,Graminoid
+52,Stylisma patens,Forb
+53,Desmodium strictum,Legume
+54,Liatris cokeri,Forb
+55,Unknown 2 - Red Stem SGR1,Forb
+56,Nuttallanthus canadensis,Forb
+57,"Unknown 3 - Fuzzy, Small, Elliptical Leaf SGR1",Forb
+58,Galactia regularis,Legume
+59,Krigia virginica,Forb
+60,Desmodium laevigatum,Legume
+61,Rhus copallinum,Woody
+62,Hieracium marianum,Forb
+63,Lupinus diffusus,Legume
+64,Symphyotrichum spp. - dumosum or pilosus SGR1,Forb
+65,Unknown 5 - Fuzzy Basal Rossete (same as #3?) SGR1,Forb
+66,Tragia urens,Forb
+67,Chamaecrista fasciculata var. fasciculata,Legume
+68,Hypericum gentianoides,Forb
+69,Lespedeza hirta,Legume
+70,Ionactis linariifolia,Forb
+71,Pteridium aquilinum,Forb
+72,Seymeria cassioides,Forb
+73,"Unknown 8 - Broad Basal Leaves, Hairy",Forb
+74,Symphyotrichum walteri,Forb
+75,"Unknown 9 - 4 angle stem, thick leathery leaves",Forb
+77,Smilax glauca,Woody
+78,Parthenium integrifolium var. mabryanum,Forb
+79,Iris verna,Forb
+80,Sericocarpus asteroides,Forb
+81,Robinia nana,Legume
+82,Unknown 10 - Soft sedge,Graminoid
+83,Lespedeza repens,Legume
+84,Cyperus echinatus,Graminoid
+85,Desmodium rotundifolium,Legume
+86,Lespedeza virginica,Legume
+87,Morella pumila,Woody
+88,Pinus taeda (small sapling),Tree
+89,Scleria triglomerata,Graminoid
+90,Quercus marilandica,Tree
+91,Solidago odora,Forb
+92,Galium hispidulum,Forb
+93,Unknown 13 - Andropogon ternarius/Purple Sheath,Graminoid
+94,Unknown 14 - Juncus tenuis/Graminoid? Sgpe,Graminoid
+95,Rubus argutus,Woody
+96,Unknown 15 - Sorghum spp. (halepense),Graminoid
+97,Unknown 16 - Wide Hairy Graminoid Sgpe,Graminoid
+98,Gentiana autumnalis,Forb
+99,Unknown 18 - Herb Leaf,Forb
+100,Asclepias amplexicaulis,Forb
+101,Hypoxis wrightii,Forb
+102,Epigaea repens,Woody
+103,Quercus margaretta,Tree
+104,Lobelia nuttallii,Forb
+105,Sericocarpus tortifolius,Forb
+106,Linum floridanum var. floridanum,Forb
+107,Unknown 19 - Small Something CACR2,Forb
+108,Itea virginica,Woody
+109,Liquidambar styraciflua,Tree
+110,Unknown 20 - Hypoxis spp?? CACR3,Forb
+111,Unknown 21 - Alternate Jagged Leaf Aster CACR3,Forb
+112,Unknown 22 - Herb Basal Leaves,Forb
+113,Unknown 23 - Clavaria spp. (Coral Reef),Forb
+114,Unknown 24 - Vaccinium spp. (Pale Green),Woody
+115,Clethra alnifolia var. alnifolia,Woody
+116,Gelsemium sempervirens,Woody
+117,Xyris caroliniana,Forb
+118,Vaccinium stamineum,Woody
+119,Unknown 25- 4 whirl BLSF1,Forb
+120,Unknown 26 - Pompom Vine,Forb
+121,Pinus Palustris (sapling),Tree
+122,Cuthbertia graminea,Forb
+123,Unknown 27 - Fuzzy Ball Dichan,Graminoid
+124,Vitis rotundifolia,Woody
+125,Unknown 28 - Swollen Nodes,Graminoid
+126,Unknown 29 - Hairy Rosette,Forb
+127,Epilobium nummularifolium,Forb
+128,Drosera capillaris,Forb
+129,Unknown 31 - Thin Purple Dichanthelium spp.,Graminoid
+130,Agalinus purpurea,Forb
+131,Fimbristylis puberula,Graminoid
+132,"Unknown 32 - Rough Forb, vacc. Spp.",Woody
+133,Polygala lutea,Forb
+134,Unknown 33 - Cell Wall Leaves,Forb
+135,Pyxidanthera barbulata,Forb
+136,Unknown 34 - Fuzzy Red Hair On Margins,Forb
+137,Fimbristylis puberula,Graminoid
+138,Unknown 36 - Liatris spp. Red sheath astreacea,Forb
+139,Galactia erecta,Legume
+140,Quercus geminata,Tree
+141,Unknown 37 - Hairy Basal Leaves Yellow Flower,Forb
+142,Unknown 38 - Round Leaf Vaccinium,Woody
+143,Unknown 39 - Brown Graminoid,Graminoid
+144,Carya tomentosa,Tree
+145,Oxydendrum arboreum,Tree
+146,Magnolia virginiana,Tree
+147,Unknown 40 - Wavy Leaf Tree,Tree
